@@ -1,14 +1,15 @@
 /* Don't change the existing CSS. */
 #outer-box {
-background-color: purple;
+  background-color: purple;
 }
+
 .box {
   background-color: blue;
   padding: 10px;
 }
 
 .inner-box {
-  background: red;
+  background-color: red;
 }
 
 p {
@@ -19,8 +20,5 @@ p {
 }
 
 .white-text {
-  color: white;  
+  color: white;
 }
-
-
-
